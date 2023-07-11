@@ -1,0 +1,10 @@
+name: Move
+version: '${project.version}'
+main: com.polymer.move.Move
+api-version: 1.13
+commands:
+  move:
+    description: "/move"
+    usage: "/move"
+    permission: move.move
+    permission-message: "No permission"

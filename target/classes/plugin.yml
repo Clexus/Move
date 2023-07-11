@@ -1,0 +1,8 @@
+name: Move
+version: '1.0'
+main: com.polymer.move.Move
+api-version: 1.13
+commands:
+  move:
+    description: "/move"
+    usage: "/move"
